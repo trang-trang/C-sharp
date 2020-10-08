@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfKetQuaThi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <KetQuaThi>
+    <MaSinhVien>01</MaSinhVien>
+    <HoVaTenDem>le</HoVaTenDem>
+    <Ten>trang</Ten>
+    <NamSinh>1999</NamSinh>
+    <kt_mieng>0</kt_mieng>
+    <kt_15_phut>0</kt_15_phut>
+    <kt_30_phut>0</kt_30_phut>
+    <kt_45_phut>0</kt_45_phut>
+    <DiemTb>0</DiemTb>
+  </KetQuaThi>
+  <KetQuaThi>
+    <MaSinhVien>1</MaSinhVien>
+    <HoVaTenDem>le thi</HoVaTenDem>
+    <Ten>trang</Ten>
+    <NamSinh>1998</NamSinh>
+    <kt_mieng>0</kt_mieng>
+    <kt_15_phut>0</kt_15_phut>
+    <kt_30_phut>0</kt_30_phut>
+    <kt_45_phut>0</kt_45_phut>
+    <DiemTb>0</DiemTb>
+  </KetQuaThi>
+  <KetQuaThi>
+    <MaSinhVien>2</MaSinhVien>
+    <HoVaTenDem>le the</HoVaTenDem>
+    <Ten>trai</Ten>
+    <NamSinh>2001</NamSinh>
+    <kt_mieng>0</kt_mieng>
+    <kt_15_phut>0</kt_15_phut>
+    <kt_30_phut>0</kt_30_phut>
+    <kt_45_phut>0</kt_45_phut>
+    <DiemTb>0</DiemTb>
+  </KetQuaThi>
+</ArrayOfKetQuaThi>

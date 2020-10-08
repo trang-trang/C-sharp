@@ -1,0 +1,14 @@
+C:\Users\canquochung\source\repos\DanhSachHocSinh\DanhSachHocSinh\bin\Debug\DanhSachHocSinh.exe.config
+C:\Users\canquochung\source\repos\DanhSachHocSinh\DanhSachHocSinh\bin\Debug\DanhSachHocSinh.exe
+C:\Users\canquochung\source\repos\DanhSachHocSinh\DanhSachHocSinh\bin\Debug\DanhSachHocSinh.pdb
+C:\Users\canquochung\source\repos\DanhSachHocSinh\DanhSachHocSinh\obj\Debug\DanhSachHocSinh.csprojAssemblyReference.cache
+C:\Users\canquochung\source\repos\DanhSachHocSinh\DanhSachHocSinh\obj\Debug\DanhSachHocSinh.csproj.CoreCompileInputs.cache
+C:\Users\canquochung\source\repos\DanhSachHocSinh\DanhSachHocSinh\obj\Debug\DanhSachHocSinh.exe
+C:\Users\canquochung\source\repos\DanhSachHocSinh\DanhSachHocSinh\obj\Debug\DanhSachHocSinh.pdb
+C:\Users\canquochung\Desktop\DanhSachHocSinh\DanhSachHocSinh\DanhSachHocSinh\bin\Debug\DanhSachHocSinh.exe.config
+C:\Users\canquochung\Desktop\DanhSachHocSinh\DanhSachHocSinh\DanhSachHocSinh\bin\Debug\DanhSachHocSinh.exe
+C:\Users\canquochung\Desktop\DanhSachHocSinh\DanhSachHocSinh\DanhSachHocSinh\bin\Debug\DanhSachHocSinh.pdb
+C:\Users\canquochung\Desktop\DanhSachHocSinh\DanhSachHocSinh\DanhSachHocSinh\obj\Debug\DanhSachHocSinh.csprojAssemblyReference.cache
+C:\Users\canquochung\Desktop\DanhSachHocSinh\DanhSachHocSinh\DanhSachHocSinh\obj\Debug\DanhSachHocSinh.csproj.CoreCompileInputs.cache
+C:\Users\canquochung\Desktop\DanhSachHocSinh\DanhSachHocSinh\DanhSachHocSinh\obj\Debug\DanhSachHocSinh.exe
+C:\Users\canquochung\Desktop\DanhSachHocSinh\DanhSachHocSinh\DanhSachHocSinh\obj\Debug\DanhSachHocSinh.pdb
